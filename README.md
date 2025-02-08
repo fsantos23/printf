@@ -44,7 +44,7 @@ ft_printf("Hex: %x, Pointer: %p", 255, ptr);
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/[your-username]/ft_printf.git
+git clone https://github.com/fsantos23/printf.git
 cd ft_printf
 make
 ```
